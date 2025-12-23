@@ -37,6 +37,7 @@
 ### Off-Code Skills
 - Physical Security
 - Photo/Movie*
+- Drums, Guitar and Trashcan
 
 ## Making other Stuff
 [Soundcloud](https://soundcloud.com/dertizen/lo-step-mp3?si=e4810754fee2496ab861f02da42f9ca1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
