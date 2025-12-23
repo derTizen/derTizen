@@ -1,3 +1,4 @@
+# Security by Design
 ## Doing Stuff for
 [Freifunk@Aalen](https://aalen.freifunk.net) | 
 [Computertruhe e.V.](https://computertruhe.de) | 
@@ -49,7 +50,7 @@
 [![JuneZone](https://thejunezone.neocities.org/JUNEBUTTON.gif)](https://thejunezone.neocities.org/) [![Pixeldesu](https://pixelde.su/assets/img/88x31/pixeldesu.png)](https://pixelde.su/) [![Fediring](https://fediring.net/static/badges/1.gif)](https://fediring.net)
 
 ## Contact
-- [Mastodon | TIZEN](https://mastodon.social/@dertizen)
+[![Mastodon | TIZEN](https://joinmastodon.org/logos/logo-white.svg)](https://mastodon.social/@dertizen) 
 
 *_Basis: One-year vocational college with examination_
 
