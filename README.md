@@ -12,7 +12,7 @@
 
 
 ## Skill-Set
-### Language
+### Script-Language
 > only includes languages that I can* – languages that interest me are not listed here.
  - .md | MarkDown (common Use in Obsidian or things like this Page here)
  - .css | StyleSheet (Makes the Look of you WebPage)
@@ -31,22 +31,47 @@
 - Web/Photo-Design
 - Printing and media technology*
 
-### Other
+### Operating Systems
 - Windows (Vista - 10)
 - Linux (Debian/Arch)
 
 ### Off-Code Skills
-- Physical Security
+- Physical Security (50% | 2,5/3)
 - Photo/Movie*
 - Drums, Guitar and Trashcan
+- Japanese (Re:Doing)
+- Skateboarding (Re:Doing)
+- [PenTest//white Hacking](https://app.hackthebox.com/public/users/1783591?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs) (Re:Doing)
+- Calisthenics (0%)
+- more advanced Cooking
+- [draw | Skeetching B/W](https://www.pixiv.net/en/users/118237559) (Re:Doing)
+
+### Last Cigarette:
+> In Progress ...
+>
+> Changes could be delayed.  
+>
+> For every cigarette I had, the Pueblo CEO laughs at me about how foolish I am/was.  
+>
+> Ur not more/less an edge-lord with(out) a cig — so keep rid of it!
+
+### NoBeer-Policy
+> Since 08/2025
+>
+> Every Type of Alcohol will make this lil' counter to "0"
+
+
+### OSU!me
+[![Osu Profile of T I Z E N](https://osekai.net/profiles/img/banner.svg?id=14966915)](https://osu.ppy.sh/users/14966915)
+
 
 ## Making other Stuff
-[Soundcloud](https://soundcloud.com/dertizen/lo-step-mp3?si=e4810754fee2496ab861f02da42f9ca1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-[YouTube](https://www.youtube.com/watch?v=c8YDg4aXpx8&list=PL46VTLGy7yfZzjEu8kCliwoXuFwwQebqR&pp=gAQB0gcJCaIEOCosWNin)
+[Soundcloud](https://soundcloud.com/dertizen/lo-step-mp3?si=e4810754fee2496ab861f02da42f9ca1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | 
+[YouTube](https://www.youtube.com/watch?v=c8YDg4aXpx8&list=PL46VTLGy7yfZzjEu8kCliwoXuFwwQebqR&pp=gAQB0gcJCaIEOCosWNin) | 
+[PeerTube](https://404again.com/a/tizen/video-channels)
 
 ## Internet-Gems
 > These are external Links, please check before you blindly click on them. If one of them becomes sus/malicious pls. contact me.
-
 [![JuneZone](https://thejunezone.neocities.org/JUNEBUTTON.gif)](https://thejunezone.neocities.org/) [![Pixeldesu](https://pixelde.su/assets/img/88x31/pixeldesu.png)](https://pixelde.su/) [![Fediring](https://fediring.net/static/badges/1.gif)](https://fediring.net) [![tr1x_em](https://trix.is-a.dev/badges/tr1xem_1.gif)](https://trix.is-a.dev/) [![axeni - Badge by Tr1xem](https://trix.is-a.dev/badges/axe.gif)](https://axeni.de/) [![RightToRepair Badge by Tr1xem](https://trix.is-a.dev/badges/righttorepair.gif)](https://de.ifixit.com/Right-to-Repair)
 
 
