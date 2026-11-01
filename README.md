@@ -80,7 +80,7 @@
 
 
 ## Contact
-[![Mastodon | TIZEN](https://joinmastodon.org/logos/logo-white.svg)](https://mastodon.social/@dertizen) 
+[![Mastodon | TIZEN](https://joinmastodon.org/logos/logo-white.svg)](https://meow.social/@dertizen) 
 
 *_Basis: One-year vocational college with examination_
 
